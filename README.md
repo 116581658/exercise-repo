@@ -1,3 +1,4 @@
 # exercise-repo
 This project will contain ...
-Edited agian in master branch
+Repository made for exercise and testing
+Edited again in master branch
